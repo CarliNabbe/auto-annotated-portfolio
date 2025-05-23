@@ -63,6 +63,24 @@ sections:
           - pr-4
         textAlign: left
     subtitle: Projects
+  - type: QuoteSection
+    quote: >-
+      “We think coding should be required in every school because it's as
+      important as any kind of second language.”
+    name: Johnna Doe
+    title: Product Marketing Manager at Acme
+    colors: colors-f
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-36
+          - pb-36
+          - pl-4
+          - pr-4
+        textAlign: left
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
@@ -123,23 +141,5 @@ sections:
           - pr-4
           - pl-4
         flexDirection: row
-        textAlign: left
-  - type: QuoteSection
-    quote: >-
-      “We think coding should be required in every school because it's as
-      important as any kind of second language.”
-    name: Johnna Doe
-    title: Product Marketing Manager at Acme
-    colors: colors-f
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-36
-          - pb-36
-          - pl-4
-          - pr-4
         textAlign: left
 ---

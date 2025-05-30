@@ -11,7 +11,7 @@ description: >-
 featuredImage:
   type: ImageBlock
   url: /images/Schermafbeelding 2025-05-30 141546.png
-  altText: Project thumbnail image
+  altText: Breakout thumbnail image
 media:
   type: ImageBlock
   url: /images/bg3.jpg

@@ -6,7 +6,7 @@ date: '2025-05-30'
 client: ''
 description: >-
   Infiltraliens is a single player game where you stealthily have to try and
-  save your alien friends.
+  save your alien friends #GameDesigner #ConceptArt #SocialMediaManager
 featuredImage:
   type: ImageBlock
   url: /images/library_hero_1.jpg

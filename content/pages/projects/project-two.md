@@ -13,7 +13,7 @@ featuredImage:
   altText: Infiltraliens thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/logo_v2.png
   altText: Project image
 ---
 

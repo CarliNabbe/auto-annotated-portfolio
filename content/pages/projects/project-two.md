@@ -11,7 +11,7 @@ description: >-
 featuredImage:
   type: ImageBlock
   url: /images/library_hero_1.jpg
-  altText: Project thumbnail image
+  altText: Infiltraliens thumbnail image
 media:
   type: ImageBlock
   url: /images/bg2.jpg

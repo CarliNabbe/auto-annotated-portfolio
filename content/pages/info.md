@@ -142,7 +142,7 @@ sections:
       - type: Label
         label: Pasta
       - type: Label
-        label: C++
+        label: ''
       - type: Label
         label: Swift
   - type: DividerSection

@@ -142,6 +142,9 @@ sections:
       - type: Label
         label: Figma
       - type: Label
+        label: UX design
+        url: ''
+      - type: Label
         label: Concepting
       - type: Label
         label: Team Effort
@@ -153,9 +156,6 @@ sections:
         url: ''
       - type: Label
         label: Give feedback
-        url: ''
-      - type: Label
-        label: UX design
         url: ''
     title: ''
   - type: DividerSection

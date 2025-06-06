@@ -1,15 +1,16 @@
 ---
 type: ProjectLayout
-title: One more cool project
+title: Breakout
 colors: colors-a
-date: '2022-01-22'
-client: Awesome client
+date: '2025-05-30'
+client: ''
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably because I worked with an entire team :) but they definitely followed my lead most of the time.
+  Breakout is a classic game that's been around for years. This is my spinoff on
+  the game with own powerups to earn.
 featuredImage:
   type: ImageBlock
-  url: /images/bg3.jpg
-  altText: Project thumbnail image
+  url: /images/Schermafbeelding 2025-05-30 141546.png
+  altText: Breakout thumbnail image
 media:
   type: ImageBlock
   url: /images/bg3.jpg

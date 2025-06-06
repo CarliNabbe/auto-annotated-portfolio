@@ -4,22 +4,20 @@ title: Home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg1.jpg
+  url: /images/bg2.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
-  opacity: 75
+  opacity: 50
 sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+    title: 'I’m a digital artist, developer, consultant and a gamer. I am Carli Nabbe.'
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      This is my info— I’m sharing this with you to impress you with all the
+      hard work I’ve done in the past few years. Once you’re impressed, you can
+      continue to scroll down to see more details and credentials about me.
     styles:
       self:
         height: auto
@@ -65,30 +63,19 @@ sections:
           - pr-4
         textAlign: left
     subtitle: Projects
-  - type: FeaturedPostsSection
-    elementId: ''
+  - type: QuoteSection
+    quote: '"Life has no limitations, except the ones you make."'
+    name: Les Brown
+    title: ''
     colors: colors-f
-    variant: variant-d
-    subtitle: Featured Posts
-    showFeaturedImage: false
-    actions:
-      - type: Link
-        label: See all posts
-        url: /blog
-    posts:
-      - content/pages/blog/post-six.md
-      - content/pages/blog/post-four.md
-      - content/pages/blog/post-three.md
-    showDate: true
-    showExcerpt: true
-    showReadMoreLink: true
+    elementId: ''
     styles:
       self:
         height: auto
-        width: narrow
+        width: wide
         padding:
-          - pt-28
-          - pb-48
+          - pt-36
+          - pb-36
           - pl-4
           - pr-4
         textAlign: left

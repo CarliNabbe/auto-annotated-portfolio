@@ -144,7 +144,7 @@ sections:
       - type: Label
         label: Concepting
       - type: Label
-        label: Swift
+        label: Team Effort
     title: ''
   - type: DividerSection
     styles:

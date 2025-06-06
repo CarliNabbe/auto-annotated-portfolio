@@ -154,6 +154,9 @@ sections:
       - type: Label
         label: Give feedback
         url: ''
+      - type: Label
+        label: UX design
+        url: ''
     title: ''
   - type: DividerSection
     styles:

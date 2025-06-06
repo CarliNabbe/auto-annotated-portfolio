@@ -142,7 +142,7 @@ sections:
       - type: Label
         label: Figma
       - type: Label
-        label: ''
+        label: Concepting
       - type: Label
         label: Swift
     title: ''

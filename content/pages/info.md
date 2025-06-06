@@ -149,6 +149,9 @@ sections:
       - type: Label
         label: Team Effort
       - type: Label
+        label: Making pasta
+        url: ''
+      - type: Label
         label: Working under stress
         url: ''
       - type: Label
@@ -156,9 +159,6 @@ sections:
         url: ''
       - type: Label
         label: Give feedback
-        url: ''
-      - type: Label
-        label: Making pasta
         url: ''
     title: ''
   - type: DividerSection

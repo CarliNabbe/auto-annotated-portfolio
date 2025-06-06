@@ -10,7 +10,7 @@ description: >-
 featuredImage:
   type: ImageBlock
   url: /images/Player 1.png
-  altText: Project thumbnail image
+  altText: Tweet Off thumbnail image
 media:
   type: ImageBlock
   url: /images/bg1.jpg

@@ -67,7 +67,7 @@ sections:
     quote: >-
       “We think coding should be required in every school because it's as
       important as any kind of second language.”
-    name: Johnna Doe
+    name: ''
     title: Product Marketing Manager at Acme
     colors: colors-f
     elementId: ''

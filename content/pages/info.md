@@ -151,6 +151,9 @@ sections:
       - type: Label
         label: Iteration
         url: ''
+      - type: Label
+        label: Constantly give feedback
+        url: ''
     title: ''
   - type: DividerSection
     styles:

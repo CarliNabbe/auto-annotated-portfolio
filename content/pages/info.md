@@ -140,7 +140,7 @@ sections:
       - type: Label
         label: InVision
       - type: Label
-        label: Pasta
+        label: Figma
       - type: Label
         label: ''
       - type: Label

@@ -140,7 +140,7 @@ sections:
       - type: Label
         label: Netlify
       - type: Label
-        label: Pancakes
+        label: Pasta
       - type: Label
         label: C++
       - type: Label

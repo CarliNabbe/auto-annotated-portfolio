@@ -152,7 +152,7 @@ sections:
         label: Iteration
         url: ''
       - type: Label
-        label: Constantly give feedback
+        label: Give feedback
         url: ''
     title: ''
   - type: DividerSection

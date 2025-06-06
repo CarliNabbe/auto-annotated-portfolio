@@ -148,6 +148,9 @@ sections:
       - type: Label
         label: Working under stress
         url: ''
+      - type: Label
+        label: Iteration
+        url: ''
     title: ''
   - type: DividerSection
     styles:

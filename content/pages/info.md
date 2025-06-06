@@ -134,7 +134,7 @@ sections:
       - type: Label
         label: React
       - type: Label
-        label: Microsoft Office
+        label: Adobe Creative Cloud
       - type: Label
         label: Next.js
       - type: Label

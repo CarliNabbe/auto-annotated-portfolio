@@ -132,6 +132,9 @@ sections:
       - type: Label
         label: 'WEB 1, 2, 3'
       - type: Label
+        label: HTML/CSS
+        url: ''
+      - type: Label
         label: React
       - type: Label
         label: Adobe Creative Cloud
@@ -145,9 +148,6 @@ sections:
         label: ''
       - type: Label
         label: Swift
-      - type: Label
-        label: HTML/CSS
-        url: ''
     title: ''
   - type: DividerSection
     styles:

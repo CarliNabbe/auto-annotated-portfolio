@@ -145,6 +145,9 @@ sections:
         label: ''
       - type: Label
         label: Swift
+      - type: Label
+        label: HTML/CSS
+        url: ''
     title: ''
   - type: DividerSection
     styles:

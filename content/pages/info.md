@@ -145,7 +145,7 @@ sections:
         label: ''
       - type: Label
         label: Swift
-    title: HTML/CSS
+    title: ''
   - type: DividerSection
     styles:
       self:

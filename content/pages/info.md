@@ -66,7 +66,7 @@ sections:
         actions:
           - type: Link
             label: LinkedIn
-            url: 'https://www.linkedin.com/'
+            url: 'https://www.linkedin.com/in/carli-nabbe-76332b125/'
         styles:
           self:
             textAlign: left

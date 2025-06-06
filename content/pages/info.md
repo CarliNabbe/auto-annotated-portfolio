@@ -145,6 +145,9 @@ sections:
         label: Concepting
       - type: Label
         label: Team Effort
+      - type: Label
+        label: Working under stress
+        url: ''
     title: ''
   - type: DividerSection
     styles:

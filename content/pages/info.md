@@ -138,7 +138,7 @@ sections:
       - type: Label
         label: Next.js
       - type: Label
-        label: Netlify
+        label: InVision
       - type: Label
         label: Pasta
       - type: Label

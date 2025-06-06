@@ -65,7 +65,7 @@ sections:
     subtitle: Projects
   - type: QuoteSection
     quote: '"Life has no limitations, except the ones you make."'
-    name: ''
+    name: Les Brown
     title: Product Marketing Manager at Acme
     colors: colors-f
     elementId: ''

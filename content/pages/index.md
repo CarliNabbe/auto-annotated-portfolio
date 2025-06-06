@@ -64,9 +64,7 @@ sections:
         textAlign: left
     subtitle: Projects
   - type: QuoteSection
-    quote: >-
-      “We think coding should be required in every school because it's as
-      important as any kind of second language.”
+    quote: '"Life has no limitations, except the ones you make."'
     name: ''
     title: Product Marketing Manager at Acme
     colors: colors-f

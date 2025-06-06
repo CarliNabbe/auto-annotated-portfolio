@@ -9,7 +9,7 @@ description: >-
   guess what is A.I. and what is real.
 featuredImage:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/Player 1.png
   altText: Project thumbnail image
 media:
   type: ImageBlock

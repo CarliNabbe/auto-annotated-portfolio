@@ -14,10 +14,13 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >+
-      # Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+      # Hi, I am a creative developer from Rotterdam, the Netherlands. Raised in
+      different parts of the Netherlands I now made my home in the southern part
+      of the country for about 5 years. As a creative developer I am working
+      with designs (own or provided) to translate that to different media. In my
+      own time I love to immerse myself in a wonderful game, or spend some time
+      watching movies. Also a big fan of everything that is Japanese and you can
+      talk to me for hours about the Japanese culture
 
     media:
       type: ImageBlock

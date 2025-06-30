@@ -13,7 +13,7 @@ featuredImage:
   altText: Breakout thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/Schermafbeelding 2025-05-30 141546.png
   altText: Project image
 ---
 

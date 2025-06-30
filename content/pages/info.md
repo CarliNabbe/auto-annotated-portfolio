@@ -24,7 +24,7 @@ sections:
 
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/Berlijn_Foto 23-02-2020 20 50 51.jpg
       altText: Hero image
     styles:
       self:
